@@ -30,7 +30,7 @@
 |---------|-------------|------------|
 | **[DevOps Observability Platform](https://github.com/rajatthai/devops-portfolio)** | End-to-end containerized delivery pipeline with automated build-and-deploy workflows and a centralized monitoring stack. | Docker, Kubernetes, Jenkins, Prometheus, Grafana |
 | **[Jain Scripture AI](https://github.com/rajatthai/Jain-Scripture-AI)** | Local RAG knowledge base utilizing multilingual OCR and vector embeddings for offline question answering. | LlamaIndex, ChromaDB, Ollama Gemma, PyMuPDF |
-| **[Multi-Agent Debate Engine](#)** | AI framework orchestrating enterprise LLMs via OpenRouter, featuring configurable debate rounds and structured evaluation. | Python, LLM APIs, Prompt Engineering |
+| **[Multi-Agent Debate Engine](https://github.com/rajatthai/multi-agent-debate-engine)** | Streamlit-based multi-agent LLM app where two debaters argue opposing sides and a judge produces a verdict. Includes concurrent streaming UX, configurable rounds, and downloadable transcripts. | Python, Streamlit, OpenRouter, LLM APIs, Prompt Engineering, Multi-agent Orchestration |
 | **[IPL Match Predictor](https://github.com/rajatthai/ipl-match-predictor)** | Logistic regression model predicting match outcomes based on pre-match features parsed from clean match-level datasets. | Python, Machine Learning, Data Engineering |
 
 ## ⚡ Currently Working On
